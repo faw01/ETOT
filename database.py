@@ -10,3 +10,20 @@ class FoodComparison:
 
     def compare_foods(self):
         pass
+
+    def weight_loss(self):
+        '''
+        Comparison order
+        1. Lower Calories
+        2. Lower Fat (saturated)
+        3. Lower Carbs (sugar)
+        4. Higher Fibre
+        5. Higher Protein
+        '''
+        pass
+
+    def hypertrophy(self):
+        '''
+        1. Higher Protein
+        '''
+        pass
