@@ -9,6 +9,15 @@ def main():
     # Compare the foods and print the comparison
     pass
 
+def weight_loss():
+    # Gets called in main() if the user chooses the "Weight Loss" option. 
+    # Priority of nutrients to be confirmed
+    pass
+
+def build_muscle():
+    pass
+
+
 
 if __name__ == '__main__':
     main()
