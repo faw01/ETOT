@@ -12,9 +12,21 @@ def main():
 def weight_loss():
     # Gets called in main() if the user chooses the "Weight Loss" option. 
     # Priority of nutrients to be confirmed
+    '''
+    Priority ordering:
+    1. Lower Calorie
+    2. Lower Fat (saturated)
+    3. Lower Carbs (sugar)
+    4. Higher Fibre
+    4. Higher Protein
+    '''
     pass
 
 def build_muscle():
+    '''
+    Priority ordering:
+    1. Higher Protein
+    '''
     pass
 
 
