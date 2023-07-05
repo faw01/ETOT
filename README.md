@@ -1,5 +1,7 @@
 # Eat This or That (ETOT)
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 A food comparison application that retrieves nutritional data for different types of food and allows you to compare them based on your dietary goals.
 
 ## Features
